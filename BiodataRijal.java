@@ -1,4 +1,4 @@
-Public class BiodataRijal {
+public class BiodataRijal {
     public  static void main(String[] args){
         System.out.println("------------------------------------------------------------");
         System.out.println("-- Biodata Mahasiswa Jurusan Teknologi Informasi POLINEMA --");
